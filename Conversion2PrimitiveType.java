@@ -1,4 +1,5 @@
 public class Conversion2PrimitiveType{
+    //Use xxxValue() xxx는 타입명
     public static void main(String[] args){
         Integer integer1 = new Integer(10);
         int intValue =- integer1.intValue();
