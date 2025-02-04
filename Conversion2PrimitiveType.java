@@ -14,3 +14,6 @@ public class Conversion2PrimitiveType{
         System.out.println(byteValue); //-128, not 128
     }
 }
+
+//primitive type -> wrapper class : Boxing
+//wrpper class -> primitive type : Unboxing
